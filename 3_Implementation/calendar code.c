@@ -211,6 +211,7 @@ void printMonth(int mon,int year,int x,int y){
             printf("INVALID DATA FROM THE getOddNumber()MODULE");
             return;
     }
+}
    
    
       
@@ -316,6 +317,5 @@ int main(){
                 break;
             }
         }
+        return 0;
     }
-    return ;
-}
