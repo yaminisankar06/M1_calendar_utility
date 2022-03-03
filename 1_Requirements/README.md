@@ -58,5 +58,12 @@ WHEN -Calendar is more useful when a deal or event or tasks are scheduled
 
 HOW -By using all the features we can handle tasks in orderly manner ,missing the activites will be less hence achieving better results.
 
+Best methods followed
+ * Used functions to decrease dependency on main function.
+ * Used structures and arrays and sorting algorithms to accept the inputs from user.
+ * Printf statements have been placed only wherever necessary to avoid confusions.
+ * Created header file so that the fuctions can be used else where ever required without any difficulty.
+ * Unit testing is done to avoid any computational errors.
+
 
 
