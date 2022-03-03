@@ -23,7 +23,7 @@ Navigation can be done .
 
 These are the features done in this utility.
 
-   LOW LWVWL REQUIREMENTS 
+   LOW LEVEL REQUIREMENTS 
    
 We should be aware of the data we want with respesct to the date ,day, month and year .
 
