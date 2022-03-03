@@ -15,7 +15,7 @@ Requirements for calendar
     
 We can add important notes with corresponding dates.
 
-Finding  and listing  out the day corresponding to a given date, the date,  month andyear needed can be done.
+Finding  and listing  out the day corresponding to a given date, the date,  month and year needed can be done.
 
 Calendar application utilizes file handling.
 
@@ -35,7 +35,7 @@ With the file handleing  feature, we can add important notes with corresponding 
 
     SWOT ANALYSIS
     
-STRENGTH -we can find ,list,add or navigate among the date ,month and year in the calender .
+STRENGTH -we can find ,list,add or navigate among the date ,month and year in the calendar .
 
 Marking important dates is also possible .
 
@@ -43,7 +43,7 @@ WEEKNESS- The proper data to be accessed in the calendar should be known or else
 
 OPPURTUNITIES -By marking important dates amd having a routine check on calendars will help us in discharging our duties on date.
 
-THREAT -If we dont access the features correctly it will lead to error hence creating a collapsed environment and not enableding us to deleiver our duties on date .
+THREAT -If we dont access the features correctly it will lead to error hence creating a collapsed environment and not enabling us to deliver our duties on date .
 
     5W & 1H
 WHAT- This is a project which allow us to have a note on important dates , finding the dates or months or year.
@@ -52,7 +52,7 @@ WHY - This is to help the users with all the calendar activities and maintaing a
 
 WHO  - people who work contineously with different or same tasks that have to be done on regular basis are benefited from Calendar.
 
-WHOM -Students ,people working in corporate ,bussiness, product based etc can be benefited 
+WHOM -Students ,people working in corporate ,business, product based etc can be benefited 
 
 WHEN -Calendar is more useful when a deal or event or tasks are scheduled 
 
