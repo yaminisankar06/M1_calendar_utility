@@ -4,6 +4,10 @@ SEQUENCE DIAGRAM
 
 USE CASE DIAGRAM
 
+
+
+
+
 Best methods to be followed:
 
 * Best Methods Followed
